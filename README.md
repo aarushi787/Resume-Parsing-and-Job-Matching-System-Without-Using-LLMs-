@@ -107,8 +107,8 @@ resume-matcher/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Resume-Parsing-and-Job-Matching-System.git
-cd Resume-Parsing-and-Job-Matching-System
+git clone https://github.com/aarushi787/Resume-Parsing-and-Job-Matching-System-Without-Using-LLMs-
+cd Resume-Parsing-and-Job-Matching-System-Without-Using-LLMs-
 
 # 2. Install dependencies
 npm install
