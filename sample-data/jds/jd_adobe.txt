@@ -1,0 +1,29 @@
+Adobe is seeking talented and passionate Software Engineer across all organizations to help plan, design, develop, and test software systems or applications for software enhancements and new products used in local, networked, cloud-based or Internet-related computer programs and products.
+
+The Opportunity
+
+Adobe is seeking talented and passionate Software Engineer across all organizations to help plan, design, develop, and test software systems or applications for software enhancements and new products used in local, networked, cloud-based or Internet-related computer programs and products.
+
+We're on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+
+What You'll Do
+• Develop high-performance, reliable, testable, and maintainable code.
+• Participating in all aspects of software development activities, including design, coding, code review, testing, bug fixing, and code/API documentation.
+• Collaborate with engineers and participate in daily or weekly standups and meetings.
+• Grow with the support of your team and help others on the team grow by providing thoughtful feedback and uplifting those around you.
+• Work both independently and collaboratively within a fast-paced development team, with clear, positive, and constructive communication.
+• Additional responsibilities as needed based on the specific role or team.
+
+What You Need To Succeed
+• Bachelor's or Master's in Computer Science, Computer Engineering, Electrical Engineering, or equivalent experience required
+• 5-7 + years of relevant experience
+• Proficient in programming languages such as Python, Java, C++, etc.
+• Strong technical background with analytical and problem-solving skills.
+• Interest or experience in AI/ML concepts, with exposure to AI tools, is a plus.
+• Familiarity with client-side frameworks and libraries like React, Angular, jQuery is a plus.
+• Excellent problem-solving and debugging skills, and direct experience with DevOps in a SaaS environment is a plus.
+• Customer-focused and have a real passion for quality and engineering excellence at scale.
+• Excellent communication and collaboration skills.
+
+Compensation
+The U.S. pay range for this position is $139,000 -- $257,550 annually. Pay within this range varies by work location and may also depend on job-related knowledge, skills, and experience. Your recruiter can share more about the specific salary range for the job location during the hiring process. In California, the pay range for this position is $177,900 - $257,550

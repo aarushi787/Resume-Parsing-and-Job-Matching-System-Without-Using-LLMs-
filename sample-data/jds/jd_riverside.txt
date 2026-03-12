@@ -1,0 +1,47 @@
+Riverside Research is an independent National Security Nonprofit dedicated to research and development in the national interest. We provide high-end technical services, research and development, and prototype solutions to some of the country's most challenging technical problems.
+
+All Riverside Research opportunities require U.S. Citizenship.
+
+Position Overview
+Riverside Research's Applied Mathematics and Physics Solutions group is seeking a Scientific Programmer/Software Engineer to support development of high-performance large scale scientific simulation codes. The candidate will implement and test new techniques that advance the state-of-the-art in defense industry computational electromagnetic (CEM) tools. Work will be performed in collaboration with a diverse team, with backgrounds in CEM, physics, computer science, electrical engineering, applied mathematics, and high-performance computing (HPC) at our facilities in Ohio (Dayton), New York (NYC), and Illinois (Champaign).
+
+Responsibilities
+Job Responsibilities:
+• Supports all aspects of the software development lifecycle from requirements, design, development, documentation, testing (validation and verification) and debugging efficient scientific software applications
+• Maintains code quality by participating in peer reviews of software and helping develop unit tests, verification and validation test plans, and performing validation and verification
+• Applies new methods, algorithms, or processes, and evaluates and communicates conclusions
+• Assists in establishing and maintaining standards and best practices for software development
+• Evaluates new industry standards and best practices for suitable adoption
+• Becomes a subject matter expert in computational methods, software engineering, high performance computing, applied mathematics/physics, and/or modeling and simulation
+• Other duties as assigned
+
+Qualifications
+Required Qualifications:
+• Ability to obtain and maintain a Top Secret/SCI Security Clearance
+• Education and Experience:
+  • Degree in Computer Science, Software Engineering, Computational Science or closely related field with software development experience
+  • Bachelor's with 5+ years of experience, or
+  • Master's with 3+ years of experience
+  • PhD with 0+ years of experience
+  • Relevant years of experience may be substituted in lieu of a degree.
+• Applied programming experience with low-level languages like C, C++ and/or Fortran
+• Applied software development on and for Linux or other Unix-like systems
+• Applied experience coding with Python, Unix shell scripting and similar languages for software development
+• Experienced with version control software applications
+• Ability to work independently and collaboratively with a team
+• Excellent interpersonal and communications skills, written and verbal
+• Willingness to learn and perform other duties as assigned
+• Ability to travel (less than 10%)
+
+Desired Qualifications:
+• Active Security Clearance, TS/SCI (with poly preferred)
+• Experience working collaboratively on software development
+• Experience with the full software development lifecycle (SDLC)
+• Experience with parallel programming on high-performance computers (MPI and/or OpenMP)
+• Experience developing cross-platform (Windows and Linux) software
+• Additional STEM degree in physics, electrical engineering, or applied mathematics or experience developing software for scientific applications
+• Familiarity with linear algebra and numerical solutions techniques or numerical algorithms
+• Familiarity with electromagnetic wave theory
+
+Compensation
+$180,000 - $220,000 This represents the typical compensation range for this position based on experience, location and other factors.

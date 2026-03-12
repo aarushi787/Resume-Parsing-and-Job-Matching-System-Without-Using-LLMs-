@@ -1,0 +1,28 @@
+FishEye Software has an immediate opening for a skilled C++ Software Engineer to support the Cooperative Engagement Capability (CEC) Program. This program integrates advanced hardware and software to streamline radar data flow across naval platforms, enhancing the detection, tracking, and response to aerial threats. In this role, you will work closely with cross-functional teams to support system integration, testing, and validation, helping deliver a unified and accurate tactical picture.
+
+This position requires an Active Secret Clearance and is 100% on-site in Maynard, MA.
+
+Key Responsibilities
+• Design, implement, and test C++ software for real-time and embedded defense systems.
+• Participate in design, code reviews, and verification to ensure high-quality, reliable software.
+• Collaborate with cross-functional teams to define software requirements, interfaces, and integration plans.
+• Troubleshoot, debug, and resolve complex technical challenges within multi-threaded and distributed systems.
+• Contribute to ongoing improvements in development tools, processes, and coding standards.
+
+Required Skills
+• This position requires an Active Secret Clearance; US Citizenship is required.
+• BS in Computer Science, Engineering, or related field
+• Minimum of 4 years of hands-on C++ software development experience. We will consider candidates with varying levels of experience.
+• Proficiency in Linux-based environments
+• Familiarity with Agile methodologies, Scrum, and CI/CD practices
+• Experience with real-time operating systems (RTOS) and embedded programming
+• Proficiency with Git, ClearCase, SVN, or similar version control systems
+• Strong analytical, problem-solving, and communication skills
+
+Desired Skills
+• Radar domain knowledge and/or experience in defense/aerospace systems
+
+Salary Range
+The annual salary range for this position is $80,000 - $190,000 USD. The final salary will be determined based on the selected candidate's education, experience, skills, certifications, and other relevant qualifications, as well as applicable client or government contractual rates.
+
+FishEye Software is proud to be recognized as one of the Boston Globe's Top Places to Work 2025. We offer a comprehensive benefits package featuring medical, dental, and vision insurance; short and long-term disability; life insurance; paid vacation time, sick leave and holidays; 401(k) plan with company match - plus many more exceptional perks!

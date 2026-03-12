@@ -1,0 +1,33 @@
+Space is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more — we can innovate, invest, inspire and integrate our capabilities to transform the future.
+
+At Lockheed Martin Space, we aim to harness the full potential of space to cultivate innovation, reduce costs, and push the boundaries of what technology can achieve. We're creating future-ready solutions, focusing on resiliency and urgency through our 21st Century Security® vision. We're erasing boundaries and forming partnerships across industries and around the world. We're advancing spacecraft and the workforce to fuel the next generation. And we're reimagining how space can connect us, ensuring security and prosperity.
+
+Join us in shaping a new era in space and find a career that's built for you.
+
+Position: Full Stack Software Engineer
+
+This position is contingent on program award in winter of 2026 with a tentative start date in March of 2026
+
+This position is for a full-stack software engineer on a small integrated product team building a command and control solution.
+
+Basic Qualifications
+• Experience designing and documenting microservice-based architectures
+• Deep understanding of open architecture, cloud computing design, and security principles
+• Demonstrated proficiency in software development using Java or C#
+• UI/UX Development
+• Ability to obtain TS/SCI Clearance
+
+Desired Skills
+• Experience integrating software components via machine-to-machine interfaces (e.g., RESTful APIs, ActiveMQ, etc.)
+• Experience with test automation and continuous integration and deployment
+• Demonstrated experience working in Agile teams leveraging Scrum, Kanban or other methodologies and/or understanding of Agile development concepts
+• Strong Presentation Skills
+• Experience with Cloud environments
+• Understanding / proficiency in application containerization (e.g. Docker, Kubernetes, etc.)
+• Strong background developing / debugging and/or testing of web applications and web services
+• Experience with Elastic Search, Kibana, Logstash (ELK stack)
+
+Other Important Information
+By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.
+• Ability to work remotely
+• Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.

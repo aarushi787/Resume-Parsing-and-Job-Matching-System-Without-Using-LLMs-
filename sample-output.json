@@ -1,0 +1,699 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@email.com",
+  "salary": null,
+  "yearOfExperience": 5,
+  "resumeSkills": [
+    "AWS",
+    "Agile",
+    "Ansible",
+    "Bash",
+    "CI/CD",
+    "Docker",
+    "Elasticsearch",
+    "Full Stack",
+    "Git",
+    "GraphQL",
+    "Java",
+    "JavaScript",
+    "Jenkins",
+    "Jest",
+    "Kafka",
+    "Kubernetes",
+    "Linux",
+    "Microservices",
+    "MongoDB",
+    "MySQL",
+    "Node.js",
+    "PostgreSQL",
+    "Python",
+    "REST API",
+    "RabbitMQ",
+    "Redis",
+    "SQL",
+    "Scrum",
+    "Selenium",
+    "Spring Boot",
+    "Terraform",
+    "TypeScript",
+    "angular",
+    "backend",
+    "bootstrap",
+    "css",
+    "devops",
+    "django",
+    "ec2",
+    "event streaming",
+    "express",
+    "frontend",
+    "gRPC",
+    "github actions",
+    "html",
+    "rds",
+    "react",
+    "rest",
+    "s3",
+    "version control"
+  ],
+  "totalJDsProcessed": 16,
+  "matchingJobs": [
+    {
+      "jobId": "JD008",
+      "role": "Full Stack Software Engineer",
+      "aboutRole": "Should have 7 years of strong hands-on experience with Core Java, Spring Boot. Should have 4 years of strong hands-on experience with Angular or React. Hands On experience Relational Database, Microso...",
+      "salary": "61087 - 104364",
+      "matchingScore": 88.2,
+      "matchedSkillsCount": 15,
+      "totalJDSkills": 17,
+      "experienceMatch": {
+        "status": "meets",
+        "message": "Candidate has 5 years; JD requires 4+ years",
+        "candidateYears": 5,
+        "requiredMin": 4
+      },
+      "skillsAnalysis": [
+        {
+          "skill": "Azure",
+          "presentInResume": false
+        },
+        {
+          "skill": "CI/CD",
+          "presentInResume": true
+        },
+        {
+          "skill": "DB2",
+          "presentInResume": false
+        },
+        {
+          "skill": "Docker",
+          "presentInResume": true
+        },
+        {
+          "skill": "Full Stack",
+          "presentInResume": true
+        },
+        {
+          "skill": "Java",
+          "presentInResume": true
+        },
+        {
+          "skill": "Jenkins",
+          "presentInResume": true
+        },
+        {
+          "skill": "Kafka",
+          "presentInResume": true
+        },
+        {
+          "skill": "Kubernetes",
+          "presentInResume": true
+        },
+        {
+          "skill": "Microservices",
+          "presentInResume": true
+        },
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "REST API",
+          "presentInResume": true
+        },
+        {
+          "skill": "Spring Boot",
+          "presentInResume": true
+        },
+        {
+          "skill": "angular",
+          "presentInResume": true
+        },
+        {
+          "skill": "devops",
+          "presentInResume": true
+        },
+        {
+          "skill": "microsoft sql server",
+          "presentInResume": true
+        },
+        {
+          "skill": "react",
+          "presentInResume": true
+        }
+      ]
+    },
+    {
+      "jobId": "JD006",
+      "role": "Software Engineer",
+      "aboutRole": "At Bcore, our strength comes from how we deliver impact to the mission. Whether it's architecting critical IT solutions, producing actionable intelligence, or developing cutting edge technology, we su...",
+      "salary": null,
+      "matchingScore": 84.6,
+      "matchedSkillsCount": 11,
+      "totalJDSkills": 13,
+      "experienceMatch": {
+        "status": "unknown",
+        "message": "Could not determine experience match"
+      },
+      "skillsAnalysis": [
+        {
+          "skill": "Jenkins",
+          "presentInResume": true
+        },
+        {
+          "skill": "Kubernetes",
+          "presentInResume": true
+        },
+        {
+          "skill": "Linux",
+          "presentInResume": true
+        },
+        {
+          "skill": "Terraform",
+          "presentInResume": true
+        },
+        {
+          "skill": "chef",
+          "presentInResume": false
+        },
+        {
+          "skill": "devops",
+          "presentInResume": true
+        },
+        {
+          "skill": "windows",
+          "presentInResume": false
+        },
+        {
+          "skill": "Bash",
+          "presentInResume": true
+        },
+        {
+          "skill": "JavaScript",
+          "presentInResume": true
+        },
+        {
+          "skill": "MySQL",
+          "presentInResume": true
+        },
+        {
+          "skill": "Node.js",
+          "presentInResume": true
+        },
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "react",
+          "presentInResume": true
+        }
+      ]
+    },
+    {
+      "jobId": "JD007",
+      "role": "Software Engineer",
+      "aboutRole": "BigBear.ai is seeking a Software Engineer to join an ever-evolving project where you will design, develop, and deploy mission-critical tools and solutions. This role involves working closely with cust...",
+      "salary": null,
+      "matchingScore": 84.6,
+      "matchedSkillsCount": 11,
+      "totalJDSkills": 13,
+      "experienceMatch": {
+        "status": "unknown",
+        "message": "Could not determine experience match"
+      },
+      "skillsAnalysis": [
+        {
+          "skill": "AWS",
+          "presentInResume": true
+        },
+        {
+          "skill": "Ansible",
+          "presentInResume": true
+        },
+        {
+          "skill": "C",
+          "presentInResume": true
+        },
+        {
+          "skill": "C++",
+          "presentInResume": false
+        },
+        {
+          "skill": "Docker",
+          "presentInResume": true
+        },
+        {
+          "skill": "Git",
+          "presentInResume": true
+        },
+        {
+          "skill": "Java",
+          "presentInResume": true
+        },
+        {
+          "skill": "Jenkins",
+          "presentInResume": true
+        },
+        {
+          "skill": "Kubernetes",
+          "presentInResume": true
+        },
+        {
+          "skill": "Linux",
+          "presentInResume": true
+        },
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "unix",
+          "presentInResume": false
+        },
+        {
+          "skill": "version control",
+          "presentInResume": true
+        }
+      ]
+    },
+    {
+      "jobId": "JD002",
+      "role": "talented and passionate Software Engineer",
+      "aboutRole": "Adobe is seeking talented and passionate Software Engineer across all organizations to help plan, design, develop, and test software systems or applications for software enhancements and new products ...",
+      "salary": "$139,000 -- $257,550 annually",
+      "matchingScore": 75,
+      "matchedSkillsCount": 6,
+      "totalJDSkills": 8,
+      "experienceMatch": {
+        "status": "meets",
+        "message": "Candidate has 5 years; JD requires 5+ years",
+        "candidateYears": 5,
+        "requiredMin": 5
+      },
+      "skillsAnalysis": [
+        {
+          "skill": "C++",
+          "presentInResume": false
+        },
+        {
+          "skill": "Java",
+          "presentInResume": true
+        },
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "angular",
+          "presentInResume": true
+        },
+        {
+          "skill": "api",
+          "presentInResume": true
+        },
+        {
+          "skill": "devops",
+          "presentInResume": true
+        },
+        {
+          "skill": "jquery",
+          "presentInResume": false
+        },
+        {
+          "skill": "react",
+          "presentInResume": true
+        }
+      ]
+    },
+    {
+      "jobId": "JD011",
+      "role": "Software Engineer",
+      "aboutRole": "Space is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more   we can i...",
+      "salary": null,
+      "matchingScore": 75,
+      "matchedSkillsCount": 3,
+      "totalJDSkills": 4,
+      "experienceMatch": {
+        "status": "unknown",
+        "message": "Could not determine experience match"
+      },
+      "skillsAnalysis": [
+        {
+          "skill": "Agile",
+          "presentInResume": true
+        },
+        {
+          "skill": "Full Stack",
+          "presentInResume": true
+        },
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "unit testing",
+          "presentInResume": false
+        }
+      ]
+    },
+    {
+      "jobId": "JD003",
+      "role": "Software Engineer",
+      "aboutRole": "Altamira Technologies has a long and successful history providing innovative solutions throughout the U.S. National Security community. Headquartered in McLean, Virginia, Altamira serves the defense, ...",
+      "salary": null,
+      "matchingScore": 70.6,
+      "matchedSkillsCount": 12,
+      "totalJDSkills": 17,
+      "experienceMatch": {
+        "status": "meets",
+        "message": "Candidate has 5 years; JD requires 2+ years",
+        "candidateYears": 5,
+        "requiredMin": 2
+      },
+      "skillsAnalysis": [
+        {
+          "skill": "Bash",
+          "presentInResume": true
+        },
+        {
+          "skill": "Docker",
+          "presentInResume": true
+        },
+        {
+          "skill": "Elasticsearch",
+          "presentInResume": true
+        },
+        {
+          "skill": "Git",
+          "presentInResume": true
+        },
+        {
+          "skill": "JSON",
+          "presentInResume": false
+        },
+        {
+          "skill": "JavaScript",
+          "presentInResume": true
+        },
+        {
+          "skill": "Kubernetes",
+          "presentInResume": true
+        },
+        {
+          "skill": "Linux",
+          "presentInResume": true
+        },
+        {
+          "skill": "Node.js",
+          "presentInResume": true
+        },
+        {
+          "skill": "TypeScript",
+          "presentInResume": true
+        },
+        {
+          "skill": "express",
+          "presentInResume": true
+        },
+        {
+          "skill": "shell",
+          "presentInResume": false
+        },
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "gitlab ci",
+          "presentInResume": true
+        },
+        {
+          "skill": "grafana",
+          "presentInResume": false
+        },
+        {
+          "skill": "kibana",
+          "presentInResume": false
+        },
+        {
+          "skill": "prometheus",
+          "presentInResume": false
+        }
+      ]
+    },
+    {
+      "jobId": "JD014",
+      "role": "FULL STACK SOFTWARE ENGINEER (BUILD RELIABILITY)",
+      "aboutRole": "Build highly reliable software solutions that may be used by users across SpaceX Own all aspects of software engineering and product development Act as a responsible engineer for various software prod...",
+      "salary": "$120,000.00 - $145,000.00",
+      "matchingScore": 66.7,
+      "matchedSkillsCount": 8,
+      "totalJDSkills": 12,
+      "experienceMatch": {
+        "status": "meets",
+        "message": "Candidate has 5 years; JD requires 2+ years",
+        "candidateYears": 5,
+        "requiredMin": 2
+      },
+      "skillsAnalysis": [
+        {
+          "skill": "Full Stack",
+          "presentInResume": true
+        },
+        {
+          "skill": ".NET",
+          "presentInResume": false
+        },
+        {
+          "skill": "Angular",
+          "presentInResume": true
+        },
+        {
+          "skill": "C#",
+          "presentInResume": false
+        },
+        {
+          "skill": "PostgreSQL",
+          "presentInResume": true
+        },
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "SQL",
+          "presentInResume": true
+        },
+        {
+          "skill": "TypeScript",
+          "presentInResume": true
+        },
+        {
+          "skill": "UI/UX",
+          "presentInResume": false
+        },
+        {
+          "skill": "css",
+          "presentInResume": true
+        },
+        {
+          "skill": "html",
+          "presentInResume": true
+        },
+        {
+          "skill": "solid",
+          "presentInResume": false
+        }
+      ]
+    },
+    {
+      "jobId": "JD016",
+      "role": "Software Engineer  Mid Level",
+      "aboutRole": "Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutions/applications. Design, develop, test, and manage application development...",
+      "salary": null,
+      "matchingScore": 66.7,
+      "matchedSkillsCount": 8,
+      "totalJDSkills": 12,
+      "experienceMatch": {
+        "status": "unknown",
+        "message": "Could not determine experience match"
+      },
+      "skillsAnalysis": [
+        {
+          "skill": ".NET",
+          "presentInResume": false
+        },
+        {
+          "skill": "Agile",
+          "presentInResume": true
+        },
+        {
+          "skill": "C#",
+          "presentInResume": false
+        },
+        {
+          "skill": "Git",
+          "presentInResume": true
+        },
+        {
+          "skill": "Java",
+          "presentInResume": true
+        },
+        {
+          "skill": "MySQL",
+          "presentInResume": true
+        },
+        {
+          "skill": "PostgreSQL",
+          "presentInResume": true
+        },
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "REST API",
+          "presentInResume": true
+        },
+        {
+          "skill": "SQL",
+          "presentInResume": true
+        },
+        {
+          "skill": "sdlc",
+          "presentInResume": false
+        },
+        {
+          "skill": "unit testing",
+          "presentInResume": false
+        }
+      ]
+    },
+    {
+      "jobId": "JD012",
+      "role": "Software Engineer, Infrastructure",
+      "aboutRole": "Collaborate with cross-functional teams (product, design, operations, infrastructure) to build innovative application experiences Implement custom user interfaces using latest programming techniques a...",
+      "salary": "$58.65/hour to $181,000/year",
+      "matchingScore": 62.5,
+      "matchedSkillsCount": 5,
+      "totalJDSkills": 8,
+      "experienceMatch": {
+        "status": "meets",
+        "message": "Candidate has 5 years; JD requires 1+ years",
+        "candidateYears": 5,
+        "requiredMin": 1
+      },
+      "skillsAnalysis": [
+        {
+          "skill": "api",
+          "presentInResume": true
+        },
+        {
+          "skill": "unit testing",
+          "presentInResume": false
+        },
+        {
+          "skill": "C",
+          "presentInResume": true
+        },
+        {
+          "skill": "C++",
+          "presentInResume": false
+        },
+        {
+          "skill": "Java",
+          "presentInResume": true
+        },
+        {
+          "skill": "JavaScript",
+          "presentInResume": true
+        },
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "hack",
+          "presentInResume": false
+        }
+      ]
+    },
+    {
+      "jobId": "JD005",
+      "role": "Software Engineer  Astra Space",
+      "aboutRole": "As a Software Engineer at Astra, you will build systems that support rocket testing, manufacturing, and launch operations. You will work closely with hardware and operations teams to develop tools for...",
+      "salary": "$130,000 - $160,000 per year",
+      "matchingScore": 60,
+      "matchedSkillsCount": 9,
+      "totalJDSkills": 15,
+      "experienceMatch": {
+        "status": "meets",
+        "message": "Candidate has 5 years; JD requires 3+ years",
+        "candidateYears": 5,
+        "requiredMin": 3
+      },
+      "skillsAnalysis": [
+        {
+          "skill": "AWS",
+          "presentInResume": true
+        },
+        {
+          "skill": "Docker",
+          "presentInResume": true
+        },
+        {
+          "skill": "JSON",
+          "presentInResume": false
+        },
+        {
+          "skill": "Kubernetes",
+          "presentInResume": true
+        },
+        {
+          "skill": "Protobuf",
+          "presentInResume": false
+        },
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "YAML",
+          "presentInResume": false
+        },
+        {
+          "skill": "gRPC",
+          "presentInResume": true
+        },
+        {
+          "skill": "rest",
+          "presentInResume": true
+        },
+        {
+          "skill": "solid",
+          "presentInResume": false
+        },
+        {
+          "skill": "system design",
+          "presentInResume": false
+        },
+        {
+          "skill": "C",
+          "presentInResume": true
+        },
+        {
+          "skill": "C++",
+          "presentInResume": false
+        },
+        {
+          "skill": "TypeScript",
+          "presentInResume": true
+        },
+        {
+          "skill": "go",
+          "presentInResume": true
+        }
+      ]
+    }
+  ]
+}

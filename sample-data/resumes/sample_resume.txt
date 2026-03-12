@@ -1,0 +1,44 @@
+John Doe
+Software Engineer
+john.doe@email.com | +1-555-123-4567 | San Francisco, CA
+
+SUMMARY
+Full Stack Software Engineer with 5+ years of experience building scalable web applications
+and microservices. Proficient in Java, Python, JavaScript and cloud-native architectures.
+
+EXPERIENCE
+
+Senior Software Engineer — TechCorp Inc., San Francisco, CA
+Jan 2021 - Present
+- Designed and developed RESTful APIs using Spring Boot and Java
+- Built frontend interfaces with React and TypeScript
+- Deployed containerized services on AWS using Docker and Kubernetes
+- Implemented Kafka-based event streaming for real-time data pipelines
+- Maintained MySQL and PostgreSQL databases; optimized slow queries
+
+Software Engineer — StartupXYZ, New York, NY
+Jun 2019 - Dec 2020
+- Built microservices architecture using Node.js and Express
+- Integrated third-party REST APIs and GraphQL endpoints
+- Used Git for version control; followed Agile/Scrum methodologies
+- Wrote unit tests with Jest and integration tests with Selenium
+- Deployed on AWS (EC2, S3, RDS)
+
+Junior Developer — WebAgency LLC, Austin, TX
+Jul 2018 - May 2019
+- Developed web applications using Python/Django and JavaScript
+- Created responsive UIs with HTML, CSS, Bootstrap, and React
+- Worked with MySQL and MongoDB databases
+
+EDUCATION
+Bachelor of Science in Computer Science - University of Texas, Austin, May 2018
+
+SKILLS
+Languages:    Java, Python, JavaScript, TypeScript, SQL, Bash
+Frontend:     React, Angular, HTML, CSS, Bootstrap
+Backend:      Spring Boot, Node.js, Express, Django, REST API, GraphQL, gRPC
+Databases:    MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud:        AWS, Docker, Kubernetes
+DevOps:       Jenkins, GitHub Actions, CI/CD, Terraform, Ansible
+Messaging:    Kafka, RabbitMQ
+Tools:        Git, Linux, Agile, Scrum, Microservices

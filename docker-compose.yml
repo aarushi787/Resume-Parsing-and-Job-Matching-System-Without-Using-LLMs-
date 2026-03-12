@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  resume-matcher:
+    build: .
+    container_name: resume-matcher-api
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+    volumes:
+      - ./uploads:/app/uploads   # optional: persist uploaded files
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3

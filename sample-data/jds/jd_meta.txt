@@ -1,0 +1,36 @@
+Meta is seeking talented engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will have the opportunity to work on complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications.
+
+Our teams are constantly pushing the boundaries of user experience, and we're looking for passionate individuals who can help us advance the way people connect globally. If you're interested in joining a world-class team of industry veterans and working on exciting projects that have a significant impact, we encourage you to apply.
+
+Position: Software Engineer, Infrastructure
+
+Responsibilities:
+• Collaborate with cross-functional teams (product, design, operations, infrastructure) to build innovative application experiences
+• Implement custom user interfaces using latest programming techniques and technologies
+• Develop reusable software components for interfacing with backend platforms
+• Analyze and optimize code for quality, efficiency, and performance
+• Lead complex technical or product efforts and provide technical guidance to peers
+• Architect efficient and scalable systems that drive complex applications
+• Identify and resolve performance and scalability issues
+• Work on a variety of coding languages and technologies
+• Establish ownership of components, features, or systems with expert end-to-end understanding
+
+Minimum Qualifications:
+• Currently has, or is in the process of obtaining a Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience. Degree must be completed prior to joining Meta
+• 2+ years of programming experience in a relevant language OR a PhD + 9 months programming experience in a relevant language
+• Track record of setting technical direction for a team, driving consensus and successful cross-functional partnerships
+• Experience building maintainable and testable code bases, including API design and unit testing techniques
+
+Preferred Qualifications:
+• Experience owning a component, feature or system
+• Experience improving quality through thoughtful code reviews, appropriate testing, proper rollout, monitoring, and proactive changes
+• Experience in programming languages such as C, C++, Java
+• Exposure to architectural patterns of large scale software applications
+• Experience designing, analyzing and improving efficiency, scalability, and stability of various system resources
+• 2+ years of relevant experience building large-scale infrastructure applications or similar experience
+• 1+ years of experience identifying, designing and completing medium to large features independently without guidance
+• Experience with scripting languages such as Python, Javascript or Hack
+
+Compensation
+$58.65/hour to $181,000/year + bonus + equity + benefits
+Individual compensation is determined by skills, qualifications, experience, and location.

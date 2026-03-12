@@ -1,0 +1,26 @@
+BigBear.ai is seeking a Software Engineer to join an ever-evolving project where you will design, develop, and deploy mission-critical tools and solutions. This role involves working closely with customers to understand and support operational requirements, as well as analyzing large data sets to deliver mission-centric insights. You will collaborate with analysts, data scientists, and other software engineers to integrate cutting-edge technologies and solutions that drive impactful results.
+
+What You Will Do
+• Software Development: Write production-grade software to be deployed in operational environments
+• Maintenance & Monitoring: Monitor software performance and implement updates as needed
+• Platform Enhancement: Augment the platform with new tools and technologies to meet evolving mission needs
+• Code Reviews: Perform thorough code reviews to ensure quality and compliance
+• Stakeholder Collaboration: Elicit requirements from stakeholders to align solutions with mission objectives
+• Documentation: Write detailed documentation to support compliance processes and operational workflows
+
+What You Need To Have
+• Clearance: Must possess and maintain an active TS/SCI w/ Polygraph
+• Education & Experience: Bachelor's degree in a relevant field, plus production-grade software development experience in C/C++, Python, and Java
+• Version Control: Familiarity with software version control systems, such as Git
+• UNIX/Linux Proficiency: Experience using the command line in UNIX or Linux environments
+• Networked Systems: Experience working in multi-node networked environments
+
+What We'd Like You To Have
+• Containerization: Experience with Docker or Kubernetes
+• Automation Tools: Familiarity with Ansible for configuration management
+• Cloud Hosting: Experience with cloud-based hosting environments, such as AWS
+• Continuous Integration: Proficiency with CI tools, such as Jenkins
+
+BigBear.ai is a leading provider of AI-powered decision intelligence solutions for national security, supply chain management, and digital identity. Customers and partners rely on Bigbear.ai's predictive analytics capabilities in highly complex, distributed, mission-based operating environments. Headquartered in McLean, Virginia, BigBear.ai is a public company traded on the NYSE under the symbol BBAI.
+
+BigBear.ai is an Equal opportunity employer all protected groups, including protected veterans and individuals with disabilities.

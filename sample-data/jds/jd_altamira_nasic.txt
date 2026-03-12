@@ -1,0 +1,24 @@
+Altamira Technologies has a long and successful history providing innovative solutions throughout the U.S. National Security community. Headquartered in McLean, Virginia, Altamira serves the defense, intelligence and homeland security communities by focusing on creating innovative solutions leveraging common standards in architecture, data and security. Altamira believes that our people and the culture of our company differentiate us from other companies.
+
+We focus on recruiting talented, self-motivated employees that strive to find a way to get things done. Join our team of experts as we engineer national security!
+
+Position: Software Engineer
+
+Altamira is seeking a Software Engineer to help our National Air & Space Intelligence Center (NASIC) customer engineer advanced data management, analysis, and visualization tools to support their critical mission.
+
+Required Experience
+• Demonstrated experience and/or familiarity with Typescript, JavaScript, JSON, Linux Shell/BASH, Docker, YML, git
+• Familiarity with Kubernetes, ElasticSearch CRUD, Node.js Express
+
+Nice to Haves:
+• Experience with Docker Swarm
+• GitLab CI/CD processes
+• Python
+• Kibana
+• Prometheus
+• Grafana
+
+Requirements
+• Bachelor's degree in Computer Science (or similar) from an accredited college or university
+• At least 2 years of professional experience in Software Engineering
+• Active TS/SCI Clearance

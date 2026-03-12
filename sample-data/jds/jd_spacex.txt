@@ -1,0 +1,42 @@
+SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.
+
+FULL STACK SOFTWARE ENGINEER (BUILD RELIABILITY)
+
+We are seeking a Full Stack Software Engineer to design, develop, and continuously improve software solutions ensuring our vehicles can be built and flown reliably. This involves streamlining quality control processes, simplifying new product introduction, ensuring product traceability, as well as optimizing rocket and spacecraft reusability.
+
+As a Full Stack Software Engineer on our Build Reliability team, you will engage with other SpaceX engineers to discover the needs of the mission and write highly reliable software which turns the mission into reality. You will be responsible for the complete life-cycle of the software you create, including development, testing, and support. You are the engineer that other engineers can count on; you are technical, you attack every problem with enthusiasm; you remove hurdles. You are a self-starter, team player, have the hunger to venture quickly into unknown areas and code and make the system work.
+
+Aerospace experience is not required to be successful here - rather we look for smart, motivated, collaborative engineers who love solving problems and want to make an impact on a super inspiring mission.
+
+RESPONSIBILITIES:
+• Build highly reliable software solutions that may be used by users across SpaceX
+• Own all aspects of software engineering and product development
+• Act as a responsible engineer for various software products
+• Maintain highest standards of excellence, never settle for the status quo
+• Deep dive into your users' problems, find efficient solutions
+• Provide strong technical leadership, focus on continuous improvement
+• Seek out faults within our application suite or ERP suite and implement solutions to improve
+• Track usage of Applications and features and suggest/implement features to improve them
+
+BASIC QUALIFICATIONS:
+• Bachelor's degree in computer science, engineering, math, or scientific discipline; OR 2+ years of professional experience building software in lieu of a degree
+• Experience in full stack development
+
+PREFERRED SKILLS AND EXPERIENCE:
+• 5+ years of experience in web applications development
+• Experience as an architect - proven ability to design and implement robust and scalable systems with flexible and scalable UI that meets future needs
+• Expertise in C#, .NET, SQL, HTML, CSS, AngularJS, TypeScript
+• Expertise in Python, PostgreSQL
+• Deep understanding of object oriented programming and design principles
+• Deep understanding of testing, continuous integration, build, deployment & continuous monitoring
+• Experience scaling web applications and optimizing applications for performance
+• Solid understanding of UI/UX design to provide intuitive applications
+• Great creative and innovative problem-solving skills
+• Initiative and the ability to work independently and collaborate within a team
+• Experience developing software for manufacturing, production, or quality systems
+
+Pay Range:
+Software Engineer/Level I: $120,000.00 - $145,000.00/per year
+Software Engineer/Level II: $140,000.00 - $170,000.00/per year
+
+Your actual level and base salary will be determined on a case-by-case basis and may vary based on the following considerations: job-related knowledge and skills, education, and experience.

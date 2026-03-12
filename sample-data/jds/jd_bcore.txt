@@ -1,0 +1,27 @@
+At Bcore, our strength comes from how we deliver impact to the mission. Whether it's architecting critical IT solutions, producing actionable intelligence, or developing cutting edge technology, we succeed because of the expertise, collaboration, and agility of our teams. Our Mission Services division combines enterprise IT, cloud solutions, DevSecOps, systems engineering, software development, and operational support.
+
+Bcore accelerates decisive advantage for warfighters and intelligence professionals by fusing human insight, rapid-fire engineering, precision-measured outcomes, and relentless grit into mission-ready solutions.
+
+Do you want to join a team that is building tailored technical solutions to modernize our government's mission and our client's business? Do you have a desire to change how people work? Are you interested in helping to protect our nation's cyber interests? Join our growing team supporting customer missions as a Software Engineer in Chantilly, Virginia.
+
+Location: Chantilly, VA
+Clearance Required: TS/SCI with Poly
+
+Required Qualifications
+• Demonstrated experience with tools used with cloud services.
+• Demonstrated experience establishing stateless implementations from architectures in cloud service providers.
+• Demonstrated experience with configuration management and data repositories.
+• Demonstrated experience with COTS products used in Linux and Windows environments.
+• Demonstrated experience using DevOps tools such as, Jenkins, Kubernetes, Chef, and Terraform.
+
+Desired Qualifications
+• Node JS
+• React
+• MySQL
+• Python
+• Bash
+• Javascript
+• Experience with UI development
+• Experience with Back-end development
+
+BCore is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, sexual orientation or any other characteristic protected by law.

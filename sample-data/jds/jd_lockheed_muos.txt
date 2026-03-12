@@ -1,0 +1,31 @@
+Space is a critical domain, connecting our technologies, our security and our humanity. While others view space as a destination, we see it as a realm of possibilities, where we can do more — we can innovate, invest, inspire and integrate our capabilities to transform the future.
+
+At Lockheed Martin Space, we aim to harness the full potential of space to cultivate innovation, reduce costs, and push the boundaries of what technology can achieve. We're creating future-ready solutions, focusing on resiliency and urgency through our 21st Century Security® vision. We're erasing boundaries and forming partnerships across industries and around the world. We're advancing spacecraft and the workforce to fuel the next generation. And we're re-imagining how space can connect us, ensuring security and prosperity.
+
+Join us in shaping a new era in space and find a career that's built for you.
+
+This position is contingent on program award expected Q2 2026
+
+Position: Software Engineer
+
+This position is for a Software Engineer supporting the Space Software Product Line Mobile User Objective System Service Life Extension (MUOS SLE) Software Systems Team. This role will support Software Systems for MUOS SLE. Responsibilities could include working in a collaborative environment interacting with peers and occasional customer interactions. This includes supporting the development of Specifications and Interface Control Documents, test scenarios to test new capability or verify defect fix, mission problems or questions in computer language for solutions by means of data processing equipment. Supporting informal and formal test events, ensuring we meet customer standards and quality, and working in a lab environment.
+
+Basic Qualifications
+• Programming experience required
+• Be able to understand SV CONOPS
+• Be able to troubleshoot issues with minimum supervision
+• Be able to collaborate with others
+
+Desired Skills
+• Python
+• Unit testing
+• Agile programming
+• Full stack development
+• STARS / EASY framework
+• Software testing
+• VM Infrastructure
+
+Other Important Information
+By applying to this job, you are expressing interest in this position and could be considered for other career opportunities where similar skills and requirements have been identified as a match. Should this match be identified you may be contacted for this and future openings.
+• Ability to work remotely
+• Onsite Full-time: The work associated with this position will be performed onsite at a designated Lockheed Martin facility.

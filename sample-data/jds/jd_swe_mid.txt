@@ -1,0 +1,30 @@
+Software Engineer - Mid Level
+
+Position Summary
+Works in the area of Software Engineering, which encompasses the development, maintenance and optimization of software solutions/applications.
+
+Responsibilities
+• Design, develop, test, and manage application development projects in support of IT infrastructure
+• Integrate third-party components and introduce new custom capabilities
+• Modify existing code and recommend process improvements
+• Automate operations and maintenance tasks
+• Develop and implement technical efforts for large-scale data processing and advanced analytics
+• Participate in all aspects of the software development life cycle
+• Contribute to planning, requirements, development, testing, and quality assurance
+• Participate in technical project milestone reviews and code architecture sessions
+• Provide resource estimation and development best practices knowledge transfer
+• Participate in Program Increments (PIs) and Agile Release Train (ART) activities
+• Support the multi-enclave environment (Unclassified, Secret, and Top Secret)
+• Collaborate with cross-functional teams to ensure seamless integration
+
+Required Skills
+• Experience with Agile methodologies
+• Understanding of forensic and investigative system requirements
+• One or more programming languages: Java, .NET(C#), Python
+• Software architecture principles and patterns
+• Object-oriented design and development
+• Relational Databases and SQL (MySQL, PostgreSQL, Microsoft SQL)
+• REST API development and integration
+• Git and other source control management systems
+• Software development lifecycle (SDLC) methodologies
+• Unit testing and test-driven development
